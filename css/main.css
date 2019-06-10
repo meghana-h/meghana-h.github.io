@@ -16,6 +16,7 @@ h1.full-name {
     font-size: 4em;
     color: #2f2f2f;
     margin-bottom: 0.5em;
+    text-align: center;
 }
 
 ul {
