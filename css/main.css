@@ -46,3 +46,10 @@ article {
     font-size: 1.75em;
     color: #2f2f2f;
 }
+
+profile-pic{
+    border: 1px solid #ddd;
+    width= 350;
+    height= 341;
+    border-radius: 50%;
+}
