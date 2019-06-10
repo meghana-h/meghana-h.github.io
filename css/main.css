@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Alegreya|Patua+One');
 
+#The below 2 classes align the entire content of the body to center.
+.centered-wrapper {
+    position: relative;
+    text-align: center;
+}
+.centered-wrapper:before {
+    content: "";
+    position: relative;
+    display: inline-block;
+    width: 0; height: 100%;
+    vertical-align: middle;
+}
+
 div.wrapper {
     width: 80%;
     margin-left: auto;
