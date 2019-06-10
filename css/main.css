@@ -47,7 +47,7 @@ article {
     color: #2f2f2f;
 }
 
-.profile-pic{
+body div img.profile-pic{
     border: 1px solid #ddd;
     width= 350 px;
     height= 341 px;
