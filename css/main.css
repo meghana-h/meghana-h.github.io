@@ -46,10 +46,3 @@ article {
     font-size: 1.75em;
     color: #2f2f2f;
 }
-
-div.img{
-    border: 1px solid #ddd;
-    width= 350 px;
-    height= 341 px;
-    border-radius: 50%;
-}
