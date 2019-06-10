@@ -47,9 +47,9 @@ article {
     color: #2f2f2f;
 }
 
-body div#wrapper img.profile-pic{
-    border: 1px solid #ddd;
-    width= 350 px;
-    height= 341 px;
-    border-radius: 50%;
+.profile-pic{
+    border: 1px solid #ddd !important;
+    width= 350 px !important;
+    height= 341 px !important;
+    border-radius: 50% !important;
 }
